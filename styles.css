@@ -483,8 +483,17 @@ color: var(--first-color);
 .skills__js{
   width: 60%;
 }
-.skills__react{
-  width: 90%;
+.skills__bootstrap{
+ width: 90%;
+}
+.skills__reactjs{
+  width: 80%;
+}
+.skills__reactnative{
+  width: 80%;
+}
+.skills__redux{
+  width: 50%;
 }
 .skills__tailwind{
   width: 90%;
